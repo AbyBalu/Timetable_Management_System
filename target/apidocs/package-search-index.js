@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Admin"},{"l":"All Packages","url":"allpackages-index.html"},{"l":"Classes"},{"l":"Faculty"},{"l":"Guest"},{"l":"net.proteanit.sql"},{"l":"NewEntries"},{"l":"Student"}]

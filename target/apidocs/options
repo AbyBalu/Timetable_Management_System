@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/ajoopnockson/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar;C:/Users/ajoopnockson/.m2/repository/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'E:/Timetable_Management_System/src/main/java;E:/Timetable_Management_System/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Timetable_Management_System/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Timetable_Management_System 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'E:/Timetable_Management_System/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Timetable_Management_System 1.0 API'

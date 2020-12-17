@@ -21,7 +21,7 @@ public class MyConnection {
     try{
     
         Class.forName("com.mysql.jdbc.Driver");
-        con = DriverManager.getConnection("jdbc:mysql://localhost/timetable_management_system?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "");
+        con = DriverManager.getConnection("jdbc:mysql://localhost:3306/timetable_management_system?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC", "root", "");
     }catch(ClassNotFoundException | SQLException ex){
     
         System.out.println(ex.getMessage());
